@@ -1,6 +1,6 @@
 Marketing Campaign Performance & Customer Segmentation Dashboard 
 
-![Marketing Dashboard](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard/raw/main/Marketing%20Dashboard.png)
+![Marketing Dashboard](https://github.com/1001av/Marketing-Campaign-Performance-Dashboard.git)
 
 ### Overview of the Project The primary goal of this project is to provide an analysis of customers and their responses to marketing through data analysis of customer and marketing campaign results. We will be creating an interactive Power BI dashboard which will enable the marketing team to use this data to inform their future budget distribution decisions.
 
@@ -26,6 +26,6 @@ Age = YEAR(TODAY()) - 'Marketing Campaign'[Year_Birth] (Grouped in 10 year bins 
   
   This Repository Contains Files: 1. The complete interactive Power BI model with data and visuals is in Marketing Dashboard.pbix 2. The final version of the dashboard image is in Marketing Dashoard.png. It has been exported as a high-quality image.
 
-![Marketing Model View](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard/raw/main/Marketing%20model%20view.png)
+![Marketing Model View](https://github.com/1001av/Marketing-Campaign-Performance-Dashboard.git)
 
 Created by 1001av
