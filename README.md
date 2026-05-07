@@ -26,6 +26,6 @@ Age = YEAR(TODAY()) - 'Marketing Campaign'[Year_Birth] (Grouped in 10 year bins 
   
   This Repository Contains Files: 1. The complete interactive Power BI model with data and visuals is in Marketing Dashboard.pbix 2. The final version of the dashboard image is in Marketing Dashoard.png. It has been exported as a high-quality image.
 
-![Marketing Model View](https://github.com/1001av/Marketing-Campaign-Performance-Dashboard.git)
+![Marketing Model View](https://github.com/1001av/Marketing-Campaign-Performance-Dashboard/blob/2a02f3f21e8ca31f3363648b267a3eeaa4bddd4d/Marketing%20model%20view.png)
 
 Created by 1001av
