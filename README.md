@@ -28,4 +28,4 @@ Age = YEAR(TODAY()) - 'Marketing Campaign'[Year_Birth] (Grouped in 10 year bins 
 
 ![Marketing Model View](https://github.com/peteo0098/Marketing-Campaign-Performance-Customer-Segmentation-Dashboard/raw/main/Marketing%20model%20view.png)
 
-Created by peteo0098
+Created by 1001av
